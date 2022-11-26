@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SIPCO-COPY/static/css/main.073c9b0a.css",
+    "main.js": "/SIPCO-COPY/static/js/main.be23de8a.js",
+    "static/js/787.574eaa0b.chunk.js": "/SIPCO-COPY/static/js/787.574eaa0b.chunk.js",
+    "index.html": "/SIPCO-COPY/index.html",
+    "main.073c9b0a.css.map": "/SIPCO-COPY/static/css/main.073c9b0a.css.map",
+    "main.be23de8a.js.map": "/SIPCO-COPY/static/js/main.be23de8a.js.map",
+    "787.574eaa0b.chunk.js.map": "/SIPCO-COPY/static/js/787.574eaa0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.be23de8a.js"
+  ]
+}
